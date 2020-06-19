@@ -1,6 +1,6 @@
 __author__ = ["Michaely"]
 from lib import *
-# import pandas as pd
+from lib import pandas as pd
 import os
 import Config as C
 from jira import JIRA, JIRAError
